@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: eurake-server
+
+server:
+  port: 2001
+
+eureka:
+  server:
+    enable-self-preservation: false
+    eviction-interval-timer-in-ms: 4000
+  instance:
+    hostname: eureka1
+  client:
+    register-with-eureka: false
+    fetch-registry: false
