@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fba92a36-e7bc-4179-a228-d56e0d943b58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/target/classes/com/tedu/esTest/HelloEs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jt-mall/sp02-itemservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jt-mall/sp02-itemservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jt-mall/sp02-itemservice/src/main/java/com/example/sp02itemservice/Sp02ItemserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jt-mall/sp02-itemservice/src/main/java/com/example/sp02itemservice/Sp02ItemserviceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jt-mall/sp02-itemservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../jt-mall/sp02-itemservice/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jt-mall/sp03-userservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jt-mall/sp03-userservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jt-mall/sp03-userservice/src/main/java/com/example/sp03userservice/Sp03UserserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jt-mall/sp03-userservice/src/main/java/com/example/sp03userservice/Sp03UserserviceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jt-mall/sp03-userservice/src/main/java/com/example/sp03userservice/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jt-mall/sp03-userservice/src/main/java/com/example/sp03userservice/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jt-mall/sp03-userservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../jt-mall/sp03-userservice/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jt-mall/sp04-orderservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jt-mall/sp04-orderservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jt-mall/sp04-orderservice/src/main/java/com/example/sp04orderservice/Sp04OrderserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jt-mall/sp04-orderservice/src/main/java/com/example/sp04orderservice/Sp04OrderserviceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jt-mall/sp04-orderservice/src/main/java/com/example/sp04orderservice/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jt-mall/sp04-orderservice/src/main/java/com/example/sp04orderservice/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jt-mall/sp04-orderservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../jt-mall/sp04-orderservice/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jt-mall/sp06-ribbon/src/main/java/com/example/sp06ribbon/Sp06RibbonApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jt-mall/sp06-ribbon/src/main/java/com/example/sp06ribbon/Sp06RibbonApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jt-mall/sp06-ribbon/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jt-mall/新建文本文档.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/java/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\java\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g4OnRypp33rPZwv9ytuxkzae8Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../es-java-api-master/es-java-api-master" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.12068965" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloEs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tedu.esTest.HelloEs" />
+      <module name="esTestForJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tedu.esTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloEs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fba92a36-e7bc-4179-a228-d56e0d943b58" name="Default Changelist" comment="" />
+      <created>1597370564721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597370564721</updated>
+      <workItem from="1597370571302" duration="1398000" />
+      <workItem from="1597372159965" duration="4230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1597373753175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1597373753175" />
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1597398486932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1597398486932" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1597398486932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1597398486932" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1597398486932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1597398486932" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1597398486932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1597398486932" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1597373176235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1597373176235" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1597373335322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1597373335322" />
+  </component>
+</project>

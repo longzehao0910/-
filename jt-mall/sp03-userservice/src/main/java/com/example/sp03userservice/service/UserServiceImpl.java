@@ -19,28 +19,31 @@ public class UserServiceImpl implements UserService {
 
     /**
      * 根据id获取用户信息
+     *
      * @param id
      * @return
      */
     @Override
     public User getUser(Integer id) {
-        log.info("users json string : "+userJson);
-        List<User> userList = JsonUtil.from(userJson, new TypeReference<List<User>>() {});
-        for (User u :userList){
-            if(u.getId().equals(id)){
+        log.info("users json string : " + userJson);
+        List<User> userList = JsonUtil.from(userJson, new TypeReference<List<User>>() {
+        });
+        for (User u : userList) {
+            if (u.getId().equals(id)) {
                 return u;
             }
         }
-        return new User(id,"name-"+id,"pwd-"+id);
+        return new User(id, "name-" + id, "pwd-" + id);
     }
 
     /**
      * 添加积分
+     *
      * @param id
      * @param score
      */
     @Override
     public void addScore(Integer id, Integer score) {
-        log.info("user "+id+" - 增加积分 "+score);
+        log.info("user " + id + " - 增加积分 " + score);
     }
 }

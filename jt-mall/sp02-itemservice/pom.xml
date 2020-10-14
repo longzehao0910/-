@@ -36,11 +36,11 @@
             </exclusions>
         </dependency>
 
-       <!-- <dependency>
-            <groupId>com.tedu</groupId>
-            <artifactId>jt-mall</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>-->
+        <!-- <dependency>
+             <groupId>com.tedu</groupId>
+             <artifactId>jt-mall</artifactId>
+             <version>0.0.1-SNAPSHOT</version>
+         </dependency>-->
 
 
         <!--引入eurake-->
@@ -59,18 +59,18 @@
             <version>0.0.1-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
-<!--        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-netflix-eureka-client</artifactId>
-            <version>2.3.0.RELEASE</version>
-            <scope>compile</scope>
-        </dependency>-->
-<!--        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-netflix-eureka-client</artifactId>
-            <version>2.3.0.RELEASE</version>
-            <scope>compile</scope>
-        </dependency>-->
+        <!--        <dependency>
+                    <groupId>org.springframework.cloud</groupId>
+                    <artifactId>spring-cloud-netflix-eureka-client</artifactId>
+                    <version>2.3.0.RELEASE</version>
+                    <scope>compile</scope>
+                </dependency>-->
+        <!--        <dependency>
+                    <groupId>org.springframework.cloud</groupId>
+                    <artifactId>spring-cloud-netflix-eureka-client</artifactId>
+                    <version>2.3.0.RELEASE</version>
+                    <scope>compile</scope>
+                </dependency>-->
         <!--<dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>

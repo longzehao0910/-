@@ -17,21 +17,22 @@ public class ItemServiceImpl implements ItemService {
 
     /**
      * 根据订单ID，获取商品信息
+     *
      * @param oderId
      * @return
      */
     @Override
     public List<Item> getItems(String oderId) {
         ArrayList<Item> list = new ArrayList<Item>();
-        Collections.addAll(list,new Item(1,"商品",1)
-                ,new Item(2,"商品",2),new Item(3,"商品",3),
-                new Item(4,"商品",4),new Item(5,"商品",5));
+        Collections.addAll(list, new Item(1, "商品", 1)
+                , new Item(2, "商品", 2), new Item(3, "商品", 3),
+                new Item(4, "商品", 4), new Item(5, "商品", 5));
         return list;
     }
 
     @Override
     public void decreaseNumbers(List<Item> list) {
-        for(Item item:list){
+        for (Item item : list) {
             log.info("商品减少");
         }
     }
